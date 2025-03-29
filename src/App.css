@@ -1,0 +1,17 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.app-container {
+  padding: 20px;
+}
+
+.stock-card {
+  background: #e3f2fd;
+  border-left: 5px solid #2196f3;
+}
+
+.portfolio-card {
+  background: #fbe9e7;
+  border-left: 5px solid #ff5722;
+}
